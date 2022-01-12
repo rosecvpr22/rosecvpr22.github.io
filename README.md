@@ -20,7 +20,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 **Talk 3: Robust multimodal learning**
 
-<img style="float: left;margin-right: 7px;" src="pics/mohitbansal.jpg" alt="Mohit Bansal" width="200"/>
+<img style="float: left;margin-right: 7px;" src="pics/mohitbansal.png" alt="Mohit Bansal" width="200"/>
 
 [Dr. Mohit Bansal]("https://www.cs.unc.edu/~mbansal/") is the John R. Louise S. Parker Associate Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the CS department at UNC Chapel Hill. He received his PhD from UC Berkeley in 2013. His research expertise is in multimodal, grounded, and embodied NLP, human-like language generation and QA/dialogue, and interpretable and generalizable deep learning. He is a recipient of the 2020 IJCAI Early CAREER Spotlight, 2019 DARPA Director’s fellowship, 2019 Google Focused Research Award, 2019 Microsoft Investigator Fellowship, and 2019 NSF CAREER Award. He has organized several workshops at the primary NLP and vision conferences.
 
@@ -59,3 +59,135 @@ The challenge deadlines are as follows,
 - Release of testing data: <strong>Jan 30, 2022</strong>
 - Challenge submission deadline: <strong>March 10, 2022</strong>
 - Winners announcement: <strong>April 01, 2022</strong>
+
+## Schedule
+
+| Event |
+| ----- |
+| Introduction (10 min) |
+| Invited talk 1 (30 min) |
+| Invited talk 2 (30 min) |
+| Invited talk 3 (30 min) |
+| Paper presentations (20 min) |
+| Break (20 min) |
+| Invited talk 4 (30 min) |
+| Invited talk 5 (30 min) |
+| Invited talk 6 (30 min) |
+| Challenge introduction (10 min) |
+| Challenge presentations (20 min) |
+| Closing remarks (10 min) |
+
+
+## Organizers
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="http://vibhavvineet.info">
+    <img alt="Vibhav Vineet" src="pics/vibhav.png">
+    </a><br>
+    <a href="http://vibhavvineet.info">Vibhav Vineet</a><br>
+    Microsoft Research
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://www.crcv.ucf.edu/person/rawat/">
+    <img alt="Yogesh Rawat" src="pics/rawat.jpg">
+    </a><br>
+  <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://www.microsoft.com/en-us/research/people/hpalangi">
+    <img alt="Hamid Palangi" src="pics/hamid_palangi.jpg">
+    </a><br>
+  <a href="https://www.microsoft.com/en-us/research/people/hpalangi">Hamid Palangi</a><br>
+    Microsoft Research
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://www.crcv.ucf.edu/person/mubarak-shah">
+    <img alt="Mubarak Shah" src="pics/dr_Shah.jpg">
+    </a><br>
+  <a href="https://www.crcv.ucf.edu/person/mubarak-shah">Mubarak Shah</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
+</div>
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://xinw.ai/">
+    <img alt="Xin Wang" src="pics/xinwang.jpg">
+    </a><br>
+    <a href="https://xinw.ai/">Xin Wang</a><br>
+    Microsoft Research
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en&oi=ao">
+    <img alt="Shruti Vyas" src="pics/shruti.jpg">
+    </a><br>
+  <a href="https://scholar.google.com/citations?user=15YqUQUAAAAJ&hl=en&oi=ao">Shruti Vyas</a><br>
+    CRCV, University of Central Florida (UCF)
+  </div>
+
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://saynaebrahimi.github.io">
+    <img alt="Sayna Ebrahimi" src="pics/sayna2.jpg">
+    </a><br>
+  <a href="https://saynaebrahimi.github.io">Sayna Ebrahimi</a><br>
+    Google Cloud AI
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://www.cs.unc.edu/~mbansal">
+    <img alt="Mohit Bansal" src="pics/bansal2.png">
+    </a><br>
+  <a href="https://www.cs.unc.edu/~mbansal">Mohit Bansal</a><br>
+    University of North Carolina (UNC) Chapel Hill
+  </div>
+</div>
+
+
+## Advising committee
+
+| --- | --- |
+| Dr. Kevin Murphy | Google, USA  |
+| Prof. Yejin Choi | University of Washington], USA |
+
+
+## Program Committee
+
+| --- | --- |
+| Dr Kevin Duarte | Adobe, USA |
+| Chengzhi Mao | PhD Student, Columbia University, USA |
+| Nayeem Mamshad Rizve | PhD Student, University of Central Florida, USA |
+| Dr. Shu Kong | Postdoc, Carnegie Mellon University, USA |
+| Dr. Navid Kardan | Postdoc, University of Central Florida, USA |
+| Dr. Naveed Akhtar | Assistant Professor, University of Western Australia, Australia |
+| Aayush Rana | PhD Student, University of Central Florida, USA |
+| Rahul Ambati | PhD Student, University of Central Florida, USA |
+| Dr. Rajiv Shah | Assistant Professor, Indraprastha Institute of Information Technology Delhi, India |
+| Xu Ziwei | PhD Student, National University of Singapore, Singapore |
+| Dr. Jack Hessel | Research Scientist, AI2, USA |
+
+
+
+

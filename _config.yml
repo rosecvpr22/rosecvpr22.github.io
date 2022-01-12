@@ -9,5 +9,6 @@ buttons:
   Invited Speakers: '#invited-speakers'
   Important Dates: '#important-dates'
   Challenge details: '#challenge-details'
+  Schedule: '#schedule'
 github:
   is_project_page: false
