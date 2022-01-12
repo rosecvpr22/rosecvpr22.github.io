@@ -1,7 +1,12 @@
 theme: jekyll-theme-cayman
 title: Robustness in Sequential Data
-description: CVPR 2022 workshop, June 2022, New Orleans, Louisiana
+description:
+- CVPR 2022 workshop
+- June 2022
+- New Orleans, Louisiana
 buttons:
   Overview: '#overview'
   Invited Speakers: '#invited-speakers'
-  Important Dates: '#important-dates'  
+  Important Dates: '#important-dates'
+github:
+  is_project_page: false
