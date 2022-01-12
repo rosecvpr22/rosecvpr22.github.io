@@ -8,5 +8,6 @@ buttons:
   Overview: '#overview'
   Invited Speakers: '#invited-speakers'
   Important Dates: '#important-dates'
+  Challenge details: '#challenge-details'
 github:
   is_project_page: false
