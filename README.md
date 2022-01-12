@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Robustness in Sequential Data
+## CVPR 2022 workshop, June 2022, New Orleans, Louisiana
 
-You can use the [editor on GitHub](https://github.com/rosecvpr22/rosecvpr22.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Overview
+<div style="text-align: justify">
+Most of the real-world data is sequential and there is always a distribution shift when we move from training set to real-world testing scenario. This workshop invites researchers from both academia and industry to advance the research in robust learning for real-world applications. The goal of this workshop is to explore the fundamental problems in the characterization of distribution shifts in sequential data and to develop robust models for sequential data for real-world applications.
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Speakers
+- Deva Ramanan
+- Carl Vondrick
+- Mohit Bansal
+- Sayna Ebrahimi
+- Balaji Lakshminarayanan
+- Hannaneh Hajishirzi
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosecvpr22/rosecvpr22.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Important dates
+- Workshop announcement: <strong>Jan 01, 2022</strong>
+- Workshop paper submission deadline: <strong>March 15, 2022</strong>
+- Notification to authors: <strong>April 01, 2022</strong>
+- Camera ready deadline: <strong>April 08, 2022</strong>
