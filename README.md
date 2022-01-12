@@ -62,20 +62,20 @@ The challenge deadlines are as follows,
 
 ## Schedule
 
-| Event |
-| ----- |
-| Introduction (10 min) |
-| Invited talk 1 (30 min) |
-| Invited talk 2 (30 min) |
-| Invited talk 3 (30 min) |
-| Paper presentations (20 min) |
-| Break (20 min) |
-| Invited talk 4 (30 min) |
-| Invited talk 5 (30 min) |
-| Invited talk 6 (30 min) |
-| Challenge introduction (10 min) |
-| Challenge presentations (20 min) |
-| Closing remarks (10 min) |
+| Event | Duration |
+| ----- | ----- |
+| Introduction | 10 min |
+| Invited talk 1 | 30 min |
+| Invited talk 2 | 30 min |
+| Invited talk 3 | 30 min |
+| Paper presentations | 20 min |
+| Break | 20 min |
+| Invited talk 4 | 30 min |
+| Invited talk 5 | 30 min |
+| Invited talk 6 | 30 min |
+| Challenge introduction | 10 min |
+| Challenge presentations | 20 min |
+| Closing remarks | 10 min |
 
 
 ## Organizers
