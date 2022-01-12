@@ -1,5 +1,4 @@
-# Robustness in Sequential Data
-## CVPR 2022 workshop, June 2022, New Orleans, Louisiana
+
 
 # Overview
 <div style="text-align: justify">
