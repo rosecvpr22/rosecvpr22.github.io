@@ -33,6 +33,12 @@ We will use a public leaderboard for this challenge where the participants can s
 The challenge is focused on developing solutions that reduce the gap in performance between training set and real-world testing scenario. The goal of this challenge is to promote methods that can handle the various types of perturbations and corruptions observed in real-world data. 
 <ul>
 <li>Task: The task will involve recognition of activities on three different datasets, including Kinetics-400, UCF-101 and HMDB-51. The participants will develop robust activity recognition model on these three datasets. These models will be evaluated on perturbed and corrupted samples based on above mentioned criteria, with the goal to test a model's robustness against various natural, camera-related and compression related perturbations and corruptions. Participants can train using the training set from the three datasets mentioned. We will provide test set for each dataset containing a full-sets as well as mini-sets for faster evaluation.</li>
+Training dataset can be downloaded from:
+<ul>
+<li>Kinetics-400: <a href="https://storage.googleapis.com/deepmind-media/Datasets/kinetics400.tar.gz">Click here</a></li>
+<li>UCF-101: <a href="https://www.crcv.ucf.edu/research/data-sets/ucf101/">Click here</a></li>
+<li>HMDB-51: <a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads">Click here</a></li>
+</ul>
 </ul>
 </div>
 
