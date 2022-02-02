@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Overview
 <div style="text-align: justify">
@@ -170,9 +172,26 @@ The challenge deadlines are as follows,
 
 ## Advising committee
 
-| --- | --- |
-| Dr. Kevin Murphy | Google, USA  |
-| Prof. Yejin Choi | University of Washington, USA |
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://www.cs.ubc.ca/~murphyk/">
+    <img alt="Dr Kevin Murphy" src="pics/kevin_murphy.jpg">
+    </a><br>
+    <a href="https://www.cs.ubc.ca/~murphyk/">Dr Kevin Murphy</a><br>
+    Google, USA
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://homes.cs.washington.edu/~yejin/">
+    <img alt="Prof. Yejin Choi" src="pics/yejin_choi.jpg">
+    </a><br>
+  <a href="https://homes.cs.washington.edu/~yejin/">Prof. Yejin Choi</a><br>
+    University of Washington, USA
+  </div>
+</div>
 
 
 ## Program Committee
