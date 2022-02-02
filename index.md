@@ -219,7 +219,7 @@ The challenge deadlines are as follows:
 ## Program Committee
 
 | --- | --- |
-| Dr Kevin Duarte | Adobe, USA |
+| Dr Kevin Duarte | ML Engineer, Adobe, USA |
 | Chengzhi Mao | PhD Student, Columbia University, USA |
 | Nayeem Mamshad Rizve | PhD Student, University of Central Florida, USA |
 | Dr. Shu Kong | Postdoc, Carnegie Mellon University, USA |
