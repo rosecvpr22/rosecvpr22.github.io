@@ -19,7 +19,9 @@ layout: default
 This challenge invites participants from both academia and industry to develop robust activity recognition models which will be tested for robustness against various perturbations. 
 <br>
 <br>
-The robustness will be evaluated based on the model's performance on the test set with natural corruptions and perturbations. We will test the model robustness against natural perturbations including spatial corruptions (gaussian noise, shot noise, impulse noise, etc.), temporal corruptions (sampling rate, freezing, streaming issues, etc. ), camera related perturbations (rotation, translation, jittering, etc.), and compression perturbations (lossy video encodings).
+The robustness will be evaluated based on the model's performance on the test set with natural corruptions and perturbations. 
+We will test the model robustness against natural perturbations including spatial corruptions, temporal corruptions, 
+camera related perturbations, and compression perturbations.
 <br>
 <br>
 We will use a public leaderboard for this challenge where the participants can submit their solutions which will be automatically evaluated.
