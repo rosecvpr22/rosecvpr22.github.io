@@ -88,20 +88,20 @@ The challenge deadlines are as follows:
 | Time | Event | Duration |
 | ----- | ----- | ----- |
 08:30 AM-08:45 AM  |  Opening  |  (15 min)
-08:45 AM-09:30 AM  |  Invited Talk 1: Deva Ramanan  |  (45min)
-09:30 AM-10:15 AM  |  Invited Talk 2: Carl Vondrick    |  (45min)
-10:15 AM-10:45 AM  |  Coffee Break  |  (30min)
-10:45 AM-11:30 AM  |  Invited Talk 3: Mohit Bansal  |  (45min)
-11:30 AM-12:15 AM  |  Invited Talk 4: Sayna Ebrahimi  |  (45min)
-12:15 AM-12:30 PM  |  Paper Presentation  |  (15min)
-12:30 PM-01:30 PM  |  Lunch Break  |  (60min)
-01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan  |  (45min)
-02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi  |  (45min)
+08:45 AM-09:30 AM  |  Invited Talk 1: Deva Ramanan  |  (45 min)
+09:30 AM-10:15 AM  |  Invited Talk 2: Carl Vondrick    |  (45 min)
+10:15 AM-10:45 AM  |  Coffee Break  |  (30 min)
+10:45 AM-11:30 AM  |  Invited Talk 3: Mohit Bansal  |  (45 min)
+11:30 AM-12:15 AM  |  Invited Talk 4: Sayna Ebrahimi  |  (45 min)
+12:15 AM-12:30 PM  |  Paper Presentation  |  (15 min)
+12:30 PM-01:30 PM  |  Lunch Break  |  (60 min)
+01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan  |  (45 min)
+02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi  |  (45 min)
 03:45 PM-04:15 PM  |  Coffee Break  |  (30 min)
-04:15 PM-04:45 PM  |  Paper Presentation  |  (30min)
-04:45 PM-04:55 PM  |  Challenge introduction  |  (10 min)
-04:55 PM-05:40 PM  |  Challenge presentations  |  (45min)
-05:40 PM-05:50 PM  |  Award Annoucement & Closing Remarks  |  (10 min)
+04:15 PM-04:30 PM  |  Paper Presentation  |  (15 min)
+04:30 PM-04:40 PM  |  Challenge introduction  |  (10 min)
+04:40 PM-05:00 PM  |  Challenge presentations  |  (20 min)
+05:00 PM-05:15 PM  |  Award Annoucement & Closing Remarks  |  (15 min)
 
 
 ## Organizers
