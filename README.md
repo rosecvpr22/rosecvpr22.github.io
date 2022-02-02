@@ -40,7 +40,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 <img style="float: left;margin-right: 7px;" src="pics/hanna_portrait.jpg" alt="Hannaneh Hajishirzi" width="200"/>
 
-[Dr. Hannaneh Hajishirzi](http://www.gatsby.ucl.ac.uk/~balaji/) is an assistant professor in the Paul G. Allen School of Computer Science Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
+[Dr. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) is an assistant professor in the Paul G. Allen School of Computer Science Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 
 
 ## Important dates
@@ -53,6 +53,8 @@ Most of the real-world data is sequential and there is always a distribution shi
 We will host a challenge on robust activity recognition in videos in conjunction with this workshop.
 This challenge invites participants from both academia and industry to develop robust activity
 recognition models which will be tested for robustness against various perturbations.
+
+[Challenge page](./challenge.html)
 
 The challenge deadlines are as follows,
 - Challenge announcement: <strong>Jan 10, 2022</strong>
