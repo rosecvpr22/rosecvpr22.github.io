@@ -30,13 +30,13 @@ We will use a public leaderboard for this challenge where the participants can s
 <div style="text-align: justify">
 The challenge is focused on developing solutions that reduce the gap in performance between training set and real-world testing scenario. The goal of this challenge is to promote methods that can handle the various types of perturbations and corruptions observed in real-world data. 
 <ul>
-<li>Activity recognition track: This track will involve recognition of activities included in Kinetics, UCF-101 and HMDB dataset. The evaluation data will contain perturbed and corrupted samples based on above mentioned criteria, with the goal to test a model's robustness against various natural, camera-related and compression related perturbations and corruptions.</li>
+<li>Activity recognition track: This track will involve recognition of activities included in Kinetics 400, UCF-101 and HMDB dataset. The evaluation data will contain perturbed and corrupted samples based on above mentioned criteria, with the goal to test a model's robustness against various natural, camera-related and compression related perturbations and corruptions. Participants can train using the training set from the three datasets mentioned. We will provide test set for each dataset containing a full-set for challenge evaluation and a mini-set for self-evaluation.</li>
 </ul>
 </div>
 
 ## Evaluation
 <div style="text-align: justify">
-We will use existing benchmark datasets in activity recognition for the evaluation including Kinetics, UCF-101, and HMDB. We will release a mini-set and a full-set comprised of modified data from all datasets which will include perturbations and corruptions. The mini-set can be used for self-evaluation while the full-set will be used for submission to be evaluated for the comptetition. The evaluation will be performed using the <b>accuracy metric</b> on the <b>full-set</b>.
+We will use existing benchmark datasets in activity recognition for the evaluation including Kinetics 400, UCF-101, and HMDB. We will release a mini-set and a full-set comprised of modified data for all three datasets which will include perturbations and corruptions. The mini-set can be used for self-evaluation while the full-set will be used for submission to be evaluated for the comptetition. The evaluation will be performed using the <b>accuracy metric</b> on the <b>full-set</b>.
 <br>
 <br>
 More details on the evaluation process, test data and the evaluation server link will be up soon!
