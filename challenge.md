@@ -74,7 +74,7 @@ Participants willing to submit paper for consideration under the challenge track
 <li> <b>April 08, 2022:</b> <u>Camera ready deadline</u> <br>Selected papers should submit a well-formatted camera ready paper by this deadline.</li>
 <li> <b>May 31, 2022:</b> <u>Challenge submission deadline (non-paper track)</u> <br>Participants for the non-paper track can submit final evaluation files by this date for challenge consideration. </li>
 <li> <b>June 05, 2022:</b> <u>Challenge winner announcement</u> <br>Highest ranking participants will be asked to send the solutions and reports to the organizers.</li>
-<li> <b>June 20, 2022:</b> <u>Workshop</u> <br>Winners will presentation their solution. Presentation duration will be announced later.</li>
+<li> <b>June 20, 2022:</b> <u>Workshop</u> <br>Winners will present their solution. Presentation duration will be announced later.</li>
 </ul>
 </div>
 
