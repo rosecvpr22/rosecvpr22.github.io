@@ -42,42 +42,52 @@ Most of the real-world data is sequential and there is always a distribution shi
 
 [Dr. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) is an assistant professor in the Paul G. Allen School of Computer Science Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 
+## Call for papers
+We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details.
 
-## Important dates
+
+## Important workshop dates
 - Workshop announcement: <strong>Jan 01, 2022</strong>
-- Workshop paper submission deadline: <strong>March 15, 2022</strong>
+- Workshop paper submission deadline: <strong>March 10, 2022</strong>
 - Notification to authors: <strong>April 01, 2022</strong>
 - Camera ready deadline: <strong>April 08, 2022</strong>
 
 ## Challenge details
+<div style="text-align: justify">
 We will host a challenge on robust activity recognition in videos in conjunction with this workshop.
 This challenge invites participants from both academia and industry to develop robust activity
 recognition models which will be tested for robustness against various perturbations.
+</div>
 
-[Challenge page](./challenge.html)
+Please refer to the **[challenge page](./challenge.html)** for more details.
 
-The challenge deadlines are as follows,
+The challenge deadlines are as follows:
 - Challenge announcement: <strong>Jan 10, 2022</strong>
-- Release of testing data: <strong>Jan 30, 2022</strong>
-- Challenge submission deadline: <strong>March 10, 2022</strong>
-- Winners announcement: <strong>April 01, 2022</strong>
+- Release of testing data: <strong>Feb 10, 2022</strong>
+- Leaderboard open: <strong>Feb 25, 2022</strong>
+- Challenge submission deadline [paper track]: <strong>March 10, 2022</strong>
+- Challenge submission deadline: <strong>May 31, 2022</strong>
+- Winner announcement: <strong>June 05, 2022</strong>
 
 ## Schedule
 
-| Event | Duration |
-| ----- | ----- |
-| Introduction | 10 min |
-| Invited talk 1 | 30 min |
-| Invited talk 2 | 30 min |
-| Invited talk 3 | 30 min |
-| Paper presentations | 20 min |
-| Break | 20 min |
-| Invited talk 4 | 30 min |
-| Invited talk 5 | 30 min |
-| Invited talk 6 | 30 min |
-| Challenge introduction | 10 min |
-| Challenge presentations | 20 min |
-| Closing remarks | 10 min |
+| Time | Event | Duration |
+| ----- | ----- | ----- |
+08:30 AM-08:45 AM  |  Opening  |  (15 min)
+08:45 AM-09:30 AM  |  Invited Talk 1: Prof. Deva Ramanan  |  (45min)
+09:30 AM-10:15 AM  |  Invited Talk 2: Dr Carl Vondrick    |  (45min)
+10:15 AM-10:45 AM  |  Coffee Break  |  (30min)
+10:45 AM-11:30 AM  |  Invited Talk 3: Dr Mohit Bansal  |  (45min)
+11:30 AM-12:15 AM  |  Invited Talk 4: Dr Sayna Ebrahimi  |  (45min)
+12:15 AM-12:30 PM  |  Paper Presentation  |  (15min)
+12:30 PM-01:30 PM  |  Lunch Break  |  (60min)
+01:30 PM-02:15 PM  |  Invited Talk 5: Dr Balaji Lakshminarayanan  |  (45min)
+02:15 PM-03:00 PM  |  Invited Talk 6: Dr Hannaneh Hajishirzi  |  (45min)
+03:00 PM-03:30 PM  |  Paper Presentation  |  (30min)
+03:30 PM-04:00 PM  |  Coffee Break  |  (30 min)
+04:00 PM-04:10 PM  |  Challenge introduction  |  (10 min)
+04:10 PM-04:55 PM  |  Challenge presentations  |  (45min)
+04:55 PM-05:10 PM  |  Award Annoucement & Closing Remarks  |  (15 min)
 
 
 ## Organizers
@@ -170,10 +180,26 @@ The challenge deadlines are as follows,
 
 ## Advising committee
 
-| --- | --- |
-| Dr. Kevin Murphy | Google, USA  |
-| Prof. Yejin Choi | University of Washington, USA |
-
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://www.cs.ubc.ca/~murphyk/">
+    <img alt="Dr Kevin Murphy" src="pics/kevin_murphy.jpg">
+    </a><br>
+    <a href="https://www.cs.ubc.ca/~murphyk/">Dr Kevin Murphy</a><br>
+    Google, USA
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+   
+  <div style="width:22.5%">
+    <a href="https://homes.cs.washington.edu/~yejin/">
+    <img alt="Prof. Yejin Choi" src="pics/yejin_choi.jpg">
+    </a><br>
+  <a href="https://homes.cs.washington.edu/~yejin/">Prof. Yejin Choi</a><br>
+    University of Washington, USA
+  </div>
+</div>
 
 ## Program Committee
 
