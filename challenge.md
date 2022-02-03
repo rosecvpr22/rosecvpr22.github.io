@@ -55,8 +55,7 @@ Mini testing dataset can be downloaded from:
 <li>Kinetics-400M: <a href="">TDB</a></li>
 <li>UCF-101M: <a href="">TDB</a></li>
 <li>HMDB-51M: <a href="">TDB</a></li>
-</ul>
-    
+</ul>    
 </div>
 
 ## Evaluation
