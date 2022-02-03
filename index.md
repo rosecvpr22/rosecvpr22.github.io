@@ -16,7 +16,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 </div>
 
 
-**Talk 2: Causal representation for video understanding**
+**Talk 2: Predictive models and their link to robustness**
 
 <img style="float: left;margin-right: 7px;" src="pics/carlvondrick.jpg" alt="Carl Vondrick" width="200"/>
 <div style="text-align: justify">
