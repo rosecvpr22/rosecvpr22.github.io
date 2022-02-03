@@ -34,6 +34,7 @@ The challenge is focused on developing solutions that reduce the gap in performa
     
 The task will involve recognition of activities on three different datasets, including Kinetics-400, UCF-101 and HMDB-51. The participants will develop robust activity recognition model on these three datasets. These models will be evaluated on perturbed and corrupted samples based on above mentioned criteria, with the goal to test a model's robustness against various natural, camera-related and compression related perturbations and corruptions. Participants can train using the training set from the three datasets mentioned. We will provide test set for each dataset containing a full-sets as well as mini-sets for faster evaluation.
     
+
 ## Dataset download
 <div style="text-align: justify">
 Training dataset can be downloaded from:
