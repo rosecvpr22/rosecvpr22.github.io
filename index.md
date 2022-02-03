@@ -231,6 +231,13 @@ The challenge deadlines are as follows:
 | Xu Ziwei | PhD Student, National University of Singapore, Singapore |
 | Dr. Jack Hessel | Research Scientist, AI2, USA |
 
+## Student Organizers
+
+| --- | --- |
+| Aayush Rana | PhD Student, University of Central Florida, USA |
+| Madeline Schiappa | PhD Student, University of Central Florida, USA |
+| Naman Biyani | Undergrad Student, IIT Kanpur, India |
+
 
 ### Join our **[mailing list](https://groups.google.com/g/robustness-challenge)** for updates.
 For any questions, please contact **Yogesh Rawat [yogesh@crcv.ucf.edu]** and <br>**Vibhav Vineet [Vibhav.Vineet@microsoft.com]**.
