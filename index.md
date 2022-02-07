@@ -230,6 +230,7 @@ The challenge deadlines are as follows:
 | Dr. Rajiv Shah | Assistant Professor, Indraprastha Institute of Information Technology Delhi, India |
 | Xu Ziwei | PhD Student, National University of Singapore, Singapore |
 | Dr. Jack Hessel | Research Scientist, AI2, USA |
+| Yunhao (Andy) Ge | PhD student, University of Southern California, USA |
 
 ## Student Organizers
 
