@@ -55,6 +55,12 @@ Most of the real-world data is sequential and there is always a distribution shi
 <a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a> is an assistant professor in the Paul G. Allen School of Computer Science Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 </div>
 
+**Talk 7: TBD**
+
+<img style="float: left;margin-right: 7px;" src="pics/laurenitti.jpg" alt="Laurent Itti" width="200"/>
+<div style="text-align: justify">
+<a href="http://ilab.usc.edu/itti/">Laurent Itti</a> is a professor of computer science and psychology at the University of Southern California, Viterbi School of Engineering. He received the M.S. degree in image processing from the Ecole Nationale Superieure des Telecommunications, France, in 1994, and the Ph.D. degree in computation and neural systems from Caltech, CA, USA, in 2000. His research interests are in biologically-inspired computational vision, in particular in the domains of visual attention, scene understanding, control of eye movements, and surprise, with technological applications to, among others, video compression, target detection, and robotics. He has coauthored more than 150 publications in peer-reviewed journals, books and conferences, three patents, and several open-source neuromorphic vision software toolkits.
+</div>
 
 ## Call for papers
 We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details.
@@ -97,6 +103,7 @@ The challenge deadlines are as follows:
 12:30 PM-01:30 PM  |  Lunch Break  |  (60 min)
 01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan  |  (45 min)
 02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi  |  (45 min)
+03:00 PM-03:45 PM  |  Invited Talk 7: Laurent Itti  |  (45min)
 03:45 PM-04:15 PM  |  Coffee Break  |  (30 min)
 04:15 PM-04:30 PM  |  Paper Presentation  |  (15 min)
 04:30 PM-04:40 PM  |  Challenge introduction  |  (10 min)
