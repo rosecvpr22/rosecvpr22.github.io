@@ -63,7 +63,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 </div>
 
 ## Call for papers
-We invite interested researchers to submit relevant work related to robust learning for real-world applications. Please refer to the **[call for papers](./call-for-papers.html)** page for more details.
+We invite interested researchers to submit relevant work related to robust learning for real-world applications at **[https://cmt3.research.microsoft.com/ROSE2022](https://cmt3.research.microsoft.com/ROSE2022)**. Please refer to the **[call for papers](./call-for-papers.html)** page for more details.
 
 
 ## Important workshop dates
