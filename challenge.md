@@ -8,9 +8,9 @@ layout: default
 
 ## Important dates
 - Challenge announcement: <strong>Jan 10, 2022</strong>
-- Release of testing data: <strong>Feb 10, 2022</strong>
+- Release of testing data: <strong><s>Feb 10, 2022</s> March 08, 2022</strong>
 - Leaderboard open: <strong>Feb 25, 2022</strong>
-- Challenge submission deadline [paper track]: <strong>March 10, 2022</strong>
+- Challenge submission deadline [paper track]: <strong><s>March 10, 2022</s> March 28, 2022</strong>
 - Challenge submission deadline: <strong>May 31, 2022</strong>
 - Winner announcement: <strong>June 05, 2022</strong>
 
@@ -43,19 +43,20 @@ Training dataset can be downloaded from:
 <li>UCF-101: <a href="https://www.crcv.ucf.edu/research/data-sets/ucf101/">Click here</a></li>
 <li>HMDB-51: <a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads">Click here</a></li>
 </ul>
-    
+
+All testing datasets available <a href="https://www.crcv.ucf.edu/data1/robustness/">here</a>.    
 Full testing dataset can be downloaded from:
 <ul>
-<li>Kinetics-400: <a href="">TDB</a></li>
-<li>UCF-101: <a href="">TDB</a></li>
-<li>HMDB-51: <a href="">TDB</a></li>
+<li>Kinetics-400: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-kinetics400-fullset.sq">Full set</a> (724G). (<a href="https://www.crcv.ucf.edu/data1/robustness/kinetics400-fullset-split/">Smaller Chunks</a>) </li>
+<li>UCF-101: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-ucf101-fullset.sq">Full set</a> (22G)</li>
+<li>HMDB-51: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-hmdb51-fullset.sq">Full set</a> (4.8G)</li>
 </ul>
     
 Mini testing dataset can be downloaded from:
 <ul>
-<li>Kinetics-400M: <a href="">TDB</a></li>
-<li>UCF-101M: <a href="">TDB</a></li>
-<li>HMDB-51M: <a href="">TDB</a></li>
+<li>Kinetics-400M: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-kinetics400-smallset.sq">Mini set</a> (155G)</li>
+<li>UCF-101M: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-ucf101-smallset.sq">Mini set</a> (4.6G)</li>
+<li>HMDB-51M: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-hmdb51-smallset.sq">Mini set</a> (1.02G)</li>
 </ul>    
 </div>
 
@@ -90,11 +91,11 @@ Participants willing to submit paper for consideration under the challenge track
 ## Tentative schedule
 <div style="text-align: justify">
 <ul>
-<li> <b>Feb 10, 2022:</b> <u>Test data release</u> <br>We will release the mini-set for the challenge track. The full-set will also be released shortly. </li>
+<li> <b><s>Feb 10, 2022</s> March 08, 2022:</b> <u>Test data release</u> <br>We will release the mini-set for the challenge track. The full-set will also be released shortly. </li>
 <li> <b>Feb 25, 2022:</b> <u>Leaderboard open</u> <br>The evaluation server and leaderboard will be open to public for challenge participation. </li>
-<li> <b>March 10, 2022:</b> <u>Challenge submission deadline for paper track</u> <br>Challenge participants willing to submit a paper to the workshop should submit their final manuscript with scores by this date. The participants may continue to submit for non-paper track until May 31, 2022, but those evaluations will not be considered for the paper. </li>
-<li> <b>April 01, 2022:</b> <u>Notification to authors</u> <br>Authors of submitted papers will be notified.</li>
-<li> <b>April 08, 2022:</b> <u>Camera ready deadline</u> <br>Selected papers should submit a well-formatted camera ready paper by this deadline.</li>
+<li> <b><s>March 10, 2022</s> March 28, 2022:</b> <u>Challenge submission deadline for paper track</u> <br>Challenge participants willing to submit a paper to the workshop should submit their final manuscript with scores by this date. The participants may continue to submit for non-paper track until May 31, 2022, but those evaluations will not be considered for the paper. </li>
+<li> <b><s>April 01, 2022</s> April 12, 2022:</b> <u>Notification to authors</u> <br>Authors of submitted papers will be notified.</li>
+<li> <b><s>April 08, 2022</s> April 18, 2022:</b> <u>Camera ready deadline</u> <br>Selected papers should submit a well-formatted camera ready paper by this deadline.</li>
 <li> <b>May 31, 2022:</b> <u>Challenge submission deadline (non-paper track)</u> <br>Participants for the non-paper track can submit final evaluation files by this date for challenge consideration. </li>
 <li> <b>June 05, 2022:</b> <u>Challenge winner announcement</u> <br>Highest ranking participants will be asked to send the solutions and reports to the organizers.</li>
 <li> <b>June 20, 2022:</b> <u>Workshop</u> <br>Winners will present their solution. Presentation duration will be announced later.</li>

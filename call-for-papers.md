@@ -10,9 +10,9 @@ layout: default
 Submit at **[https://cmt3.research.microsoft.com/ROSE2022](https://cmt3.research.microsoft.com/ROSE2022)**
 
 ## Important dates
-- Workshop paper submission deadline: <strong>March 10, 2022</strong>
-- Notification to authors: <strong>April 01, 2022</strong>
-- Camera ready deadline: <strong>April 08, 2022</strong>
+- Workshop paper submission deadline: <strong><s>March 10, 2022</s> March 28, 2022</strong>
+- Notification to authors: <strong><s>April 01, 2022</s> April 12, 2022</strong>
+- Camera ready deadline: <strong><s>April 08, 2022</s> April 18, 2022</strong>
 
 ## Topics
 

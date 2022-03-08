@@ -65,12 +65,11 @@ Most of the real-world data is sequential and there is always a distribution shi
 ## Call for papers
 We invite interested researchers to submit relevant work related to robust learning for real-world applications at **[https://cmt3.research.microsoft.com/ROSE2022](https://cmt3.research.microsoft.com/ROSE2022)**. Please refer to the **[call for papers](./call-for-papers.html)** page for more details.
 
-
 ## Important workshop dates
 - Workshop announcement: <strong>Jan 01, 2022</strong>
-- Workshop paper submission deadline: <strong>March 10, 2022</strong>
-- Notification to authors: <strong>April 01, 2022</strong>
-- Camera ready deadline: <strong>April 08, 2022</strong>
+- Workshop paper submission deadline: <strong><s>March 10, 2022</s> March 28, 2022</strong>
+- Notification to authors: <strong><s>April 01, 2022</s> April 12, 2022</strong>
+- Camera ready deadline: <strong><s>April 08, 2022</s> April 18, 2022</strong>
 
 ## Challenge details
 <div style="text-align: justify">
@@ -83,11 +82,12 @@ Please refer to the **[challenge page](./challenge.html)** for more details.
 
 The challenge deadlines are as follows:
 - Challenge announcement: <strong>Jan 10, 2022</strong>
-- Release of testing data: <strong>Feb 10, 2022</strong>
+- Release of testing data: <strong><s>Feb 10, 2022</s> March 08, 2022</strong>
 - Leaderboard open: <strong>Feb 25, 2022</strong>
-- Challenge submission deadline [paper track]: <strong>March 10, 2022</strong>
+- Challenge submission deadline [paper track]: <strong><s>March 10, 2022</s> March 28, 2022</strong>
 - Challenge submission deadline: <strong>May 31, 2022</strong>
 - Winner announcement: <strong>June 05, 2022</strong>
+
 
 ## Schedule
 
@@ -238,6 +238,7 @@ The challenge deadlines are as follows:
 | Xu Ziwei | PhD Student, National University of Singapore, Singapore |
 | Dr. Jack Hessel | Research Scientist, AI2, USA |
 | Yunhao (Andy) Ge | PhD student, University of Southern California, USA |
+| Isht Dwivedi | Research Engineer, Honda Research, USA |
 
 ## Student Organizers
 
