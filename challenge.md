@@ -37,26 +37,27 @@ The task will involve recognition of activities on three different datasets, inc
 
 ## Dataset download
 <div style="text-align: justify">
-Training dataset can be downloaded from:
+Training dataset can be downloaded from their original sources here:
 <ul>
-<li>Kinetics-400: <a href="https://storage.googleapis.com/deepmind-media/Datasets/kinetics400.tar.gz">Click here</a></li>
-<li>UCF-101: <a href="https://www.crcv.ucf.edu/research/data-sets/ucf101/">Click here</a></li>
-<li>HMDB-51: <a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads">Click here</a></li>
+<li>Kinetics-400 [Original]: <a href="https://storage.googleapis.com/deepmind-media/Datasets/kinetics400.tar.gz">Click here</a></li>
+<li>UCF-101 [Original]: <a href="https://www.crcv.ucf.edu/research/data-sets/ucf101/">Click here</a></li>
+<li>HMDB-51 [Original]: <a href="https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads">Click here</a></li>
 </ul>
 
-All testing datasets available <a href="https://www.crcv.ucf.edu/data1/robustness/">here</a>.    
+These will be used for evaluation purpose and should not be used for training. 
+All testing datasets can be downloaded from: <a href="https://www.crcv.ucf.edu/data1/robustness/">here</a>.    
 Full testing dataset can be downloaded from:
 <ul>
-<li>Kinetics-400: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-kinetics400-fullset.sq">Full set</a> (724G). (<a href="https://www.crcv.ucf.edu/data1/robustness/kinetics400-fullset-split/">Smaller Chunks</a>) </li>
-<li>UCF-101: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-ucf101-fullset.sq">Full set</a> (22G)</li>
-<li>HMDB-51: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-hmdb51-fullset.sq">Full set</a> (4.8G)</li>
+<li>Kinetics-400P: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-kinetics400-fullset.sq">Full set</a> (724G). (<a href="https://www.crcv.ucf.edu/data1/robustness/kinetics400-fullset-split/">Smaller Chunks</a>) </li>
+<li>UCF-101P: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-ucf101-fullset.sq">Full set</a> (22G)</li>
+<li>HMDB-51P: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-hmdb51-fullset.sq">Full set</a> (4.8G)</li>
 </ul>
     
 Mini testing dataset can be downloaded from:
 <ul>
-<li>Kinetics-400M: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-kinetics400-smallset.sq">Mini set</a> (155G)</li>
-<li>UCF-101M: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-ucf101-smallset.sq">Mini set</a> (4.6G)</li>
-<li>HMDB-51M: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-hmdb51-smallset.sq">Mini set</a> (1.02G)</li>
+<li>Kinetics-400PMini: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-kinetics400-smallset.sq">Mini set</a> (155G)</li>
+<li>UCF-101PMini: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-ucf101-smallset.sq">Mini set</a> (4.6G)</li>
+<li>HMDB-51PMini: <a href="https://www.crcv.ucf.edu/data1/robustness/robustness-hmdb51-smallset.sq">Mini set</a> (1.02G)</li>
 </ul>    
 </div>
 
