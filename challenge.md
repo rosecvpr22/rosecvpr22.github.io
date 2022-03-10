@@ -9,7 +9,7 @@ layout: default
 ## Important dates
 - Challenge announcement: <strong>Jan 10, 2022</strong>
 - Release of testing data: <strong><s>Feb 10, 2022</s> March 08, 2022</strong>
-- Leaderboard open: <strong>Feb 25, 2022</strong>
+- Leaderboard open: <strong><s>Feb 25, 2022</s> March 10, 2022</strong>
 - Challenge submission deadline [paper track]: <strong><s>March 10, 2022</s> March 28, 2022</strong>
 - Challenge submission deadline: <strong>May 31, 2022</strong>
 - Winner announcement: <strong>June 05, 2022</strong>
@@ -65,7 +65,9 @@ Mini testing dataset can be downloaded from:
 We will use existing benchmark datasets in activity recognition for the evaluation including Kinetics-400, UCF-101, and HMDB-51. We will release a mini-set and a full-set for testing which comprised of modified data for all three datasets which will include perturbations and corruptions. Both the mini-set and the full-set will be used for submission to the leaderboard for evaluation. The winners will be decided using the <b>accuracy metric</b> on the <b>full-set</b>.
 <br>
 <br>
-More details on the evaluation process, test data and the evaluation server link will be up soon!
+Leaderboard is live <a href="https://codalab.lisn.upsaclay.fr/competitions/2618">HERE</a>
+<br>
+The evaluation process and submission format is explained in detail in the evaluation tab.
 </div>
 
 
@@ -92,7 +94,7 @@ Participants willing to submit paper for consideration under the challenge track
 <div style="text-align: justify">
 <ul>
 <li> <b><s>Feb 10, 2022</s> March 08, 2022:</b> <u>Test data release</u> <br>We will release the mini-set for the challenge track. The full-set will also be released shortly. </li>
-<li> <b>Feb 25, 2022:</b> <u>Leaderboard open</u> <br>The evaluation server and leaderboard will be open to public for challenge participation. </li>
+<li> <b><s>Feb 25, 2022</s> March 10, 2022:</b> <u>Leaderboard open <a href="https://codalab.lisn.upsaclay.fr/competitions/2618">HERE</a></u> <br>The evaluation server and leaderboard will be open to public for challenge participation. </li>
 <li> <b><s>March 10, 2022</s> March 28, 2022:</b> <u>Challenge submission deadline for paper track</u> <br>Challenge participants willing to submit a paper to the workshop should submit their final manuscript with scores by this date. The participants may continue to submit for non-paper track until May 31, 2022, but those evaluations will not be considered for the paper. </li>
 <li> <b><s>April 01, 2022</s> April 12, 2022:</b> <u>Notification to authors</u> <br>Authors of submitted papers will be notified.</li>
 <li> <b><s>April 08, 2022</s> April 18, 2022:</b> <u>Camera ready deadline</u> <br>Selected papers should submit a well-formatted camera ready paper by this deadline.</li>

@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Updates
+- <strong>Mar 10, 2022:</strong> Challenge leaderboard now live <a href="https://codalab.lisn.upsaclay.fr/competitions/2618">HERE</a>.
+- <strong>Mar 08, 2022:</strong> Evaluation dataset released (check **[challenge page](./challenge.html)** for more details).
+- <strong>Mar 08, 2022:</strong> Dates updated for workshop and challenge.
+
 # Overview
 <div style="text-align: justify">
 Most of the real-world data is sequential and there is always a distribution shift when we move from training set to real-world testing scenario. This workshop invites researchers from both academia and industry to advance the research in robust learning for real-world applications. The goal of this workshop is to explore the fundamental problems in the characterization of distribution shifts in sequential data and to develop robust models for sequential data for real-world applications.
@@ -83,7 +88,7 @@ Please refer to the **[challenge page](./challenge.html)** for more details.
 The challenge deadlines are as follows:
 - Challenge announcement: <strong>Jan 10, 2022</strong>
 - Release of testing data: <strong><s>Feb 10, 2022</s> March 08, 2022</strong>
-- Leaderboard open: <strong>Feb 25, 2022</strong>
+- Leaderboard open: <strong><s>Feb 25, 2022</s> March 10, 2022</strong>
 - Challenge submission deadline [paper track]: <strong><s>March 10, 2022</s> March 28, 2022</strong>
 - Challenge submission deadline: <strong>May 31, 2022</strong>
 - Winner announcement: <strong>June 05, 2022</strong>
