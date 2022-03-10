@@ -68,7 +68,7 @@ We will use existing benchmark datasets in activity recognition for the evaluati
 <br>
 Leaderboard is live <a href="https://codalab.lisn.upsaclay.fr/competitions/2618">HERE</a>
 <br>
-The evaluation process and submission format is explained in detail in the evaluation tab.
+The evaluation process and submission format is explained in detail in the leaderboard evaluation tab.
 </div>
 
 
