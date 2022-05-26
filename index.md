@@ -45,11 +45,12 @@ Most of the real-world data is sequential and there is always a distribution shi
 </div>
 
 
-**Talk 5: Uncertainty and robustness in deep learning**
+**Talk 5: Building neural networks that know what they don’t know**
 
 <img style="float: left;margin-right: 7px;" src="pics/balajilaxminarayan.jpg" alt="Balaji Lakshminarayanan" width="200"/>
 <div style="text-align: justify">
-<a href="http://www.gatsby.ucl.ac.uk/~balaji/">Balaji Lakshminarayanan</a> is a staff research scientist at Google Brain in Mountain View (USA), working on Machine Learning and its applications. His research interests are in scalable, probabilistic machine learning. Dr. Lakshminarayanan’s PhD thesis was focused on exploring (and exploiting :) connections between neat mathematical ideas in (nonparametric) Bayesian land and computationally efficient tricks in decision tree land, to get the best of both worlds. More recently, he has focused on probabilistic deep learning: uncertainty and robustness in deep learning, out-of-distribution robustness of generative models, deep generative models including generative adversarial networks (GANs), normalizing flows and variational auto-encoders (VAEs), and applying probabilistic deep learning ideas in healthcare and Google products.
+<a href="http://www.gatsby.ucl.ac.uk/~balaji/">Balaji Lakshminarayanan</a> is a staff research scientist at Google Brain. His recent research is focused on probabilistic deep learning, specifically, uncertainty estimation, out-of-distribution robustness and applications. Before joining Google Brain, he was a research scientist at DeepMind. He received his PhD from the Gatsby Unit, University College London where he worked with Yee Whye Teh. He has co-organized several workshops on "Uncertainty and Robustness in deep learning" and served as Area Chair for NeurIPS, ICML, ICLR and AISTATS.
+<br><b>Abstract:</b> Deep neural networks can make overconfident errors and assign high confidence predictions to inputs far away from the training data. Well-calibrated predictive uncertainty estimates are important to know when to trust a model's predictions, especially for safe deployment of models in applications where the train and test distributions can be different. I'll first present some concrete examples that motivate the need for uncertainty and out-of-distribution (OOD) robustness in deep learning. Next, I'll present an overview of our recent work focused on building neural networks that know what they don’t know: this includes methods which improve single model uncertainty (e.g. <a href="https://arxiv.org/abs/2006.10108">spectral-normalized neural Gaussian processes</a>), methods which average over multiple neural network predictions such as Bayesian neural nets and <a href="https://arxiv.org/abs/1612.01474">deep ensembles</a>, and methods that leverage better representations (e.g. <a href="https://arxiv.org/abs/2106.03004">improving “near-OOD” detection</a>).
 </div>
 
 
