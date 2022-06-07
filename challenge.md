@@ -22,7 +22,7 @@ Challenge winner based on overall rank for all three datasets:
 <li>USTC-IAT-United (1st place)</li>
 <li>Inyang (2nd place)</li>
 <li>sislab (3rd place)</li>
-<li>BiBiKo (Honorable mention, 2nd place in Kinetics-400P)
+<li>BiBiKo (Honorable mention, 2nd place in Kinetics-400P)</li>
 </ul>
 <br>
 Winners and participants will receive email with further instructions for the workshop.
