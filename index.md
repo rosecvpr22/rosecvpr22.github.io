@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Updates
+- <strong>Jun 06, 2022:</strong> Challenge winners announced! Check **[challenge page](./challenge.html)** for more details.
 - <strong>Mar 10, 2022:</strong> Challenge leaderboard now live <a href="https://codalab.lisn.upsaclay.fr/competitions/2618">HERE</a>.
 - <strong>Mar 08, 2022:</strong> Evaluation dataset released (check **[challenge page](./challenge.html)** for more details).
 - <strong>Mar 08, 2022:</strong> Dates updated for workshop and challenge.
-- <strong>Jun 06, 2022:</strong> Challenge winners announced! Check **[challenge page](./challenge.html)** for more details.
 
 # Overview
 <div style="text-align: justify">
