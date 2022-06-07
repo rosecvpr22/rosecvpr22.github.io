@@ -14,6 +14,20 @@ layout: default
 - Challenge submission deadline: <strong>May 31, 2022</strong>
 - Winner announcement: <strong>June 05, 2022</strong>
 
+
+## Challenge winners
+<div style="text-align: justify">
+Challenge winner based on overall rank for all three datasets:
+<ul>
+<li>USTC-IAT-United (1st place)</li>
+<li>Inyang (2nd place)</li>
+<li>sislab (3rd place)</li>
+<li>BiBiKo (Honorable mention, 2nd place in Kinetics-400P)
+</ul>
+<br>
+Winners and participants will receive email with further instructions for the workshop.
+</div>
+
 ## Challenge overview
 <div style="text-align: justify">
 This challenge invites participants from both academia and industry to develop robust activity recognition models which will be tested for robustness against various perturbations. 
