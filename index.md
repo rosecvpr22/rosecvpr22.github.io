@@ -62,7 +62,7 @@ Most of the real-world data is sequential and there is always a distribution shi
 <a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a> is an assistant professor in the Paul G. Allen School of Computer Science Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.
 </div>
 
-**Talk 7: TBD**
+**Talk 7: Algorithms for robust lifelong learning**
 
 <img style="float: left;margin-right: 7px;" src="pics/laurenitti.jpg" alt="Laurent Itti" width="200"/>
 <div style="text-align: justify">
