@@ -108,6 +108,7 @@ The challenge deadlines are as follows:
 11:30 AM-12:15 AM  |  Invited Talk 4: Sayna Ebrahimi  |  (45 min)
 12:15 AM-12:30 PM  |  Paper Presentation  |  (15 min)
 12:30 PM-01:30 PM  |  Lunch Break  |  (60 min)
+12:30 PM-03:00 PM  |  Poster presentation (parallel event) | 
 01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan  |  (45 min)
 02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi  |  (45 min)
 03:00 PM-03:45 PM  |  Invited Talk 7: Laurent Itti  |  (45min)
