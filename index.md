@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Special Note: Recognizing Juneteenth at CVPR 2022
+<div style="text-align: justify">
+This year, June 19 and 20 marks Juneteenth, a US holiday commemorating the end of slavery in the US, and a holiday of special significance in the US South. We encourage attendees to learn more about Juneteenth and its historical context, and to join the city of New Orleans in celebrating the Juneteenth holiday. You can find out more information about Juneteenth here: <a href="https://cvpr2022.thecvf.com/recognizing-juneteenth">https://cvpr2022.thecvf.com/recognizing-juneteenth</a>
+</div>
+
 # Updates
 - <strong>Jun 06, 2022:</strong> Challenge winners announced! Check **[challenge page](./challenge.html)** for more details.
 - <strong>Mar 10, 2022:</strong> Challenge leaderboard now live <a href="https://codalab.lisn.upsaclay.fr/competitions/2618">HERE</a>.
