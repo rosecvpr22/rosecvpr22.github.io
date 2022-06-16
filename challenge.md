@@ -19,13 +19,23 @@ layout: default
 <div style="text-align: justify">
 Challenge winner based on overall rank for all three datasets:
 <ul>
-<li>USTC-IAT-United (1st place)</li>
-<li>Inyang (2nd place)</li>
-<li>sislab (3rd place)</li>
-<li>BiBiKo (Honorable mention, 2nd place in Kinetics-400P)</li>
+<li><b>USTC-IAT-United</b> (1st place)<br>
+<b>Affiliations</b>: University of Science and Technology of China, PAII Inc.<br>
+<b>Team Members</b>: Zhihong Wei, Mohan Jing, Zepeng Liu, Xiaohua Qi, Keda Lu, Liwen Zhang, Hao Chang, Hang Zhou
+</li>
+<li><b>Inyang</b> (2nd place)<br>
+<b>Affiliations</b>: Xiamen University<br>
+<b>Team Members</b>: Liting Liu, Shenshen Du, Zhongpeng Cai, Shuoping Yang
+</li>
+<li><b>SIS Lab</b> (3rd place)<br>
+<b>Affiliations</b>: University of South Florida<br>
+<b>Team Members</b>: Keval Doshi, Yasin Yilmaz
+</li>
+<li><b>HAPVR</b> (Honorable mention, 2nd place in Kinetics-400P)<br>
+<b>Affiliations</b>: Wuhan University<br>
+<b>Team Members</b>: Zitao Gao, Yuwei Yin, Yuanzhong Liu, Zhigang Tu, Juefeng Xiao, Xiangyue Zhang
+</li>
 </ul>
-<br>
-Winners and participants will receive email with further instructions for the workshop.
 </div>
 
 ## Challenge overview
