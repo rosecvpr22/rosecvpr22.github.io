@@ -120,10 +120,9 @@ The challenge deadlines are as follows:
 02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi  |  (45 min)
 03:00 PM-03:45 PM  |  Invited Talk 7: Laurent Itti  |  (45min)
 03:45 PM-04:15 PM  |  Coffee Break  |  (30 min)
-04:15 PM-04:30 PM  |  Paper Presentation  |  (15 min)
-04:30 PM-04:40 PM  |  Challenge introduction  |  (10 min)
-04:40 PM-05:00 PM  |  Challenge presentations  |  (20 min)
-05:00 PM-05:15 PM  |  Award Annoucement & Closing Remarks  |  (15 min)
+04:15 PM-04:25 PM  |  Challenge introduction  |  (10 min)
+04:25 PM-05:45 PM  |  Challenge presentations  |  (20 min)
+04:45 PM-05:00 PM  |  Closing Remarks  |  (15 min)
 
 
 ## Organizers
