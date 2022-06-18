@@ -21,7 +21,7 @@ Challenge winner based on overall rank for all three datasets:
 <ul>
 <li><b>USTC-IAT-United</b> (1st place)<br>
 Affiliations: University of Science and Technology of China, PAII Inc.<br>
-Team Members: Zhihong Wei, Mohan Jing, Zepeng Liu, Xiaohua Qi, Keda Lu, Liwen Zhang, Hao Chang, Hang Zhou
+Team Members: Jun Yu, Zhihong Wei, Mohan Jing, Zepeng Liu, Xiaohua Qi, Keda Lu, Liwen Zhang, Hao Chang, Hang Zhou
 </li>
 <br>
 <li><b>Inyang</b> (2nd place)<br>
