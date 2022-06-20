@@ -34,7 +34,7 @@ Affiliations: University of South Florida<br>
 Team Members: Keval Doshi, Yasin Yilmaz
 </li>
 <br>
-<li><b>HAPVR</b> (Honorable mention, 2nd place in Kinetics-400P)<br>
+<li><b>HAVPR</b> (Honorable mention, 2nd place in Kinetics-400P)<br>
 Affiliations: Wuhan University<br>
 Team Members: Zitao Gao, Yuwei Yin, Yuanzhong Liu, Zhigang Tu, Juefeng Xiao, Xiangyue Zhang
 </li>
