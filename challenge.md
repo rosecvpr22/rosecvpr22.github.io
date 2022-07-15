@@ -19,22 +19,22 @@ layout: default
 <div style="text-align: justify">
 Challenge winner based on overall rank for all three datasets:
 <ul>
-<li><b>USTC-IAT-United</b> (1st place)<br>
+<li><b>USTC-IAT-United</b> (1st place) <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/USTC_IAT_first_solution_rose_challenge_22.pdf">[Report]</a> <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/USTC_IAT_first_presentation_rose_challenge_22.pptx">[Presentation]</a><br>
 Affiliations: University of Science and Technology of China, PAII Inc.<br>
 Team Members: Jun Yu, Zhihong Wei, Mohan Jing, Zepeng Liu, Xiaohua Qi, Keda Lu, Liwen Zhang, Hao Chang, Hang Zhou
 </li>
 <br>
-<li><b>Inyang</b> (2nd place)<br>
+<li><b>Inyang</b> (2nd place) <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/inyang_second_solution_rose_challenge_22.pdf">[Report]</a><br>
 Affiliations: Xiamen University<br>
 Team Members: Liting Liu, Shenshen Du, Zhongpeng Cai, Shuoping Yang
 </li>
 <br>
-<li><b>SIS Lab</b> (3rd place)<br>
+<li><b>SIS Lab</b> (3rd place) <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/sislab_third_solution_rose_challenge_22.pdf">[Report]</a><br>
 Affiliations: University of South Florida<br>
 Team Members: Keval Doshi, Yasin Yilmaz
 </li>
 <br>
-<li><b>HAVPR</b> (Honorable mention, 2nd place in Kinetics-400P)<br>
+<li><b>HAVPR</b> (Honorable mention, 2nd place in Kinetics-400P) <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/bibiko_fourth_solution_rose_challenge_22.pdf">[Report]</a> <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/bibiko_fourth_presentation_rose_challenge_22.pptx">[Presentation]</a><br>
 Affiliations: Wuhan University<br>
 Team Members: Zitao Gao, Yuwei Yin, Yuanzhong Liu, Zhigang Tu, Juefeng Xiao, Xiangyue Zhang
 </li>
