@@ -111,14 +111,14 @@ The challenge deadlines are as follows:
 | ----- | ----- | ----- | ----- |
 08:30 AM-08:45 AM  |  Opening  |  |  (15 min)
 08:45 AM-09:30 AM  |  Invited Talk 1: Deva Ramanan (In-person) |  |  (45 min)
-09:30 AM-10:15 AM  |  Invited Talk 2: Carl Vondrick (In-person)   |  |  (45 min)
+09:30 AM-10:15 AM  |  Invited Talk 2: Carl Vondrick (In-person)   | [Slides](https://www.crcv.ucf.edu/wp-content/uploads/2018/11/ROSE_workshop_Carl_slides.pdf) |  (45 min)
 10:15 AM-10:45 AM  |  Coffee Break (Virtual) |  |  (30 min)
 10:45 AM-11:30 AM  |  Invited Talk 3: Mohit Bansal (Virtual) |  [Video](https://www.youtube.com/watch?v=hLh38db2dLs&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=8)  |  (45 min)
-11:30 AM-12:15 AM  |  Invited Talk 4: Sayna Ebrahimi (Virtual) |  [Video](https://www.youtube.com/watch?v=6J0lAqmaLQU&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=11)  |  (45 min)
+11:30 AM-12:15 AM  |  Invited Talk 4: Sayna Ebrahimi (Virtual) |  [Video](https://www.youtube.com/watch?v=6J0lAqmaLQU&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=11) [Slides](https://www.crcv.ucf.edu/wp-content/uploads/2018/11/ROSE_workshop_CVPR22_SaynaEbrahimi_slides.pdf)  |  (45 min)
 12:15 AM-12:30 PM  |  Paper Presentation  |  [Video](https://www.youtube.com/watch?v=ICL1RJGhygk&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=9) |  (15 min)
 12:30 PM-01:30 PM  |  Lunch Break  |  |  (60 min)
 12:30 PM-03:00 PM  |  Poster presentation (parallel event) |  |
-01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan (Virtual) |  [Video](https://www.youtube.com/watch?v=uqV5jKFH22M&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=1)  |  (45 min)
+01:30 PM-02:15 PM  |  Invited Talk 5: Balaji Lakshminarayanan (Virtual) |  [Video](https://www.youtube.com/watch?v=uqV5jKFH22M&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=1) [Slides](https://www.crcv.ucf.edu/wp-content/uploads/2018/11/ROSE_workshop_balaji_talk.pdf) |  (45 min)
 02:15 PM-03:00 PM  |  Invited Talk 6: Hannaneh Hajishirzi (Virtual) | [Video](https://www.youtube.com/watch?v=h_FBDY2otCc&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=4)  |  (45 min)
 03:00 PM-03:45 PM  |  Invited Talk 7: Laurent Itti (Virtual) |  [Video](https://www.youtube.com/watch?v=syFi-Q2jKu8&list=PLd3hlSJsX_Ind-bEnBATbL5F5IEA0CcPc&index=7)  |  (45min)
 03:45 PM-04:15 PM  |  Coffee Break  |  |  (30 min)
